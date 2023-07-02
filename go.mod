@@ -6,6 +6,7 @@ require (
 	github.com/cockroachdb/errors v1.10.0
 	github.com/labstack/echo/v4 v4.10.2
 	github.com/lestrrat-go/jwx v1.2.26
+	golang.org/x/crypto v0.9.0
 	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df
 )
 
@@ -30,7 +31,6 @@ require (
 	github.com/rogpeppe/go-internal v1.9.0 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.2 // indirect
-	golang.org/x/crypto v0.9.0 // indirect
 	golang.org/x/net v0.10.0 // indirect
 	golang.org/x/sys v0.8.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
